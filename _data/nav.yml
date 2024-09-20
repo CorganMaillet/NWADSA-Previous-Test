@@ -2,37 +2,37 @@
 header:
   - title: "Statements"
     url: "/blog/"
-    description: "Link to Peninsula DSA's Chapter Statements"
+    description: "Link to Northwest Arkasas DSA's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what Peninusla DSA is working on. Join DSA!"
+    description: "Check out what Northwest Arkasas DSA is working on. Join DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
 
 # footer links
 footer:
-  - owner: "Peninsula DSA"
+  - owner: "Northwest Arkasas DSA"
     url: # link if any
     description: # tool tip for your url
-    bio: "This is your chapter of the Democratic Socialists of America" # short bio
-    address: "PO Box 1038 New York, NY 10272" # address or region
+    bio: "This is the Northwest Arkansas chapter of the Democratic Socialists of America" # short bio
+    address: "" # address or region
   - social:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/peninsulaDSA/"
+      url: "https://www.facebook.com/dsaofnwa"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DSA_Peninsula"
+      url: "https://x.com/DSA_NWA"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/peninsuladsa/"
+      url: "https://www.instagram.com/nwadsa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/peninsuladsa"
+      url: "https://github.com/dsa-ntc"
     - label: "Email"
       icon: "fa fa-envelope"
-      url: "mailto:peninsulaDSA@gmail.com"
+      url: "mailto:nwademsoc@gmail.com"
   - feed:
     - label: "Sitemap"
       icon: "fas fa-sitemap"
