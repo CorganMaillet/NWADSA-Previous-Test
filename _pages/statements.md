@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Blog"
-permalink: /blog/
+title: "Statements"
+permalink: /statements/
 ---
 
 Recent statements and articles by Peninsula DSA.
