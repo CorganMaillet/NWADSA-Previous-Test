@@ -16,6 +16,11 @@ header:
     url: "/calendar/"
     description: "Chapter Events Calendar"
 
+join:
+  - title: "Join"
+    url: "https://act.dsausa.org/donate/membership/"
+    description: "Join DSA!"
+
 # footer links
 footer:
   - owner: "Northwest Arkasas DSA"
