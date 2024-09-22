@@ -20,7 +20,6 @@
   align-items: center;
   justify-content: space-between; // space out brand from logo
   width: 100%;
-  height: 99px;
   z-index: 10;
 
   // Because flex properties aren't inherited, we need to redeclare these first
@@ -73,7 +72,6 @@
 .navbar-nav {
   display: flex;
   flex-direction: column; // cannot use `inherit` to get the `.navbar`s value
-  padding-left: 0;
   margin-bottom: 0;
   list-style: none;
 
