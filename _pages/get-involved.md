@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-[![Want to get involved with Peninsula DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
+[![Want to get involved with Northwest Arkansas DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
 
 <h2>Join DSA!</h2>
 
@@ -15,7 +15,6 @@ When you [join DSA](https://www.dsausa.org/join), Northwest Arkansas DSA's Membe
 ---
 
 <h3>Events</h3>
-
 
 
 ---
@@ -29,8 +28,4 @@ Our monthly chapter meetings are key to coordinating our organizing efforts. We 
 <h3>Member Socials</h3>
 
 <h4>Socialize with Socialists!</h4>
-Come join your comrades after work on Friday to talk about socialism!  We usually pick a place with outdoor seating where under 21s are welcome. Please check the [event calendar](../calendar) for confirmed date/time and location.
 
-<h4>Socialist Game Nights</h4>
-ON HIATUS! Defy capitalist productivity by engaging in revolutionary play! Our socialist game nights create space to practice agency and imagine a collective, liberated future through cooperative games. Favorites have included [Strike! The Game of Worker Rebellion](https://www.youtube.com/watch?v=PnrHK85kcnk) and [Co-opoly](https://store.tesacollective.com/products/co-opoly-the-game-of-co-operatives) (both designed by the worker-owned cooperative [TESA Collective](https://www.tesacollective.com/)). We're about to demo [Bloc by Bloc: Uprising](https://www.youtube.com/watch?v=MR85Umxxb6I) and [The Resistance](https://boardgamegeek.com/boardgame/41114/resistance). Our new meetup spot is [Game Kastle](https://gamekastle.myshopify.com/pages/game-kastle-redwood-city) in Redwood City.  
-_Read more at **PDSA Discord: play-n-praxis**_
