@@ -3,7 +3,7 @@
 <header class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
   <div class="container-10">
     Join DSA today!
-    <a class="btn btn-join" href= "https://act.dsausa.org/donate/membership/">Join</a>
+    <a class="btn btn-join" href="https://act.dsausa.org/donate/membership/" target="_blank">Join</a>
   </div>
   <nav class="container">
     <!-- site home -->
@@ -17,6 +17,21 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item dropdown"></li>
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Pages
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="page1.html">Page 1</a>
+            <a class="dropdown-item" href="page2.html">Page 2</a>
+            <a class="dropdown-item" href="page3.html">Page 3</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="page4.html">Page 4</a>
+          </div>
+        </li>
+
+
         <!-- TODO add theme version dropdown here -->
         {%- for link in site.data.nav.header -%}
           {%- if link.url contains '://' -%}
