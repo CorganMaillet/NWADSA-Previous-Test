@@ -5,7 +5,7 @@ header:
     description: "About the NWA-DSA"
   - title: Services
     dropdown: true
-      sublinks:
+    sublinks:
     - title: Service 1
       url: "/service1/"
     - title: Service 2
