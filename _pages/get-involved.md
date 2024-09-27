@@ -8,7 +8,7 @@ permalink: /get-involved/
 
 <h2>Join DSA!</h2>
 
-The [Democratic Socialists of America](https://www.dsausa.org/) is the largest socialist organization in the United States because we’re a member-driven mass organization. We are a political and activist organization, not a party. We believe that working people should run both the economy and civil society, and we show our commitment to this principle by being an organization of, by, and for the working class. If you like Bernie Sanders's policies--[Medicare for All](https://berniesanders.com/issues/medicare-for-all/), the [Green New Deal](https://berniesanders.com/issues/green-new-deal/), tuition-free college, social housing--DSA is the place to be.
+The [Democratic Socialists of America](https://www.dsausa.org/) is the largest socialist organization in the United States because we’re a member-driven mass organization. We are a political and activist organization, not a party. We believe that working people should run both the economy and civil society, and we show our commitment to this principle by being an organization of, by, and for the working class.
 
 When you [join DSA](https://www.dsausa.org/join), Northwest Arkansas DSA's Membership co-chairs will reach out to connect you to our local organizing work.
 
@@ -21,7 +21,7 @@ When you [join DSA](https://www.dsausa.org/join), Northwest Arkansas DSA's Membe
 
 <h3>Chapter Meetings</h3>
 
-Our monthly chapter meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups. If you're a new member, attending a chapter meeting is the best way to get plugged in! Most chapter meetings are held virtually on the **PDSA Discord: #general**.
+Our monthly chapter meetings are key to coordinating our organizing efforts. We host presentations on socialist topics, hold democratic discussions (and vote!) on chapter priorities, and always share updates from our respective working groups. 
 
 ---
 

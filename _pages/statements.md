@@ -4,7 +4,7 @@ title: "Statements"
 permalink: /statements/
 ---
 
-Recent statements and articles by Peninsula DSA.
+Recent statements and articles by Northwest Arkansas DSA.
 
 <div class="row my-5">
   {% for post in site.posts %}
