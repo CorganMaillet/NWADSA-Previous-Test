@@ -96,18 +96,6 @@
   .nav-item:hover .dropdown-menu {
     display: block;
   }
-
-  // Optional: Style dropdown items
-  .dropdown-item {
-    padding: 10px 20px;
-    color: $navbar-dark-color;
-    text-decoration: none;
-  }
-
-  // Optional: Add hover effect for dropdown items
-  .dropdown-item:hover {
-    color: $navbar-dark-hover-color;
-  }
 }
 
 

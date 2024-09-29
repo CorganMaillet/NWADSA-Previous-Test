@@ -44,22 +44,6 @@
         </div>
     </div>
 
-    <div class="footer_bottom">
-        <div class="container_footer">
-            <ul class="social-menu tranz">
-                {% for so_link in social.social %}
-                <li>
-                    {% if so_link.url %}
-                    <i class="{{ so_link.icon }}"></i><a href="{{ so_link.url }}">{{ so_link.label }}</a>
-                    {% else %}
-                    <strong>{{ so_link.label }}</strong>
-                    {% endif %}
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
-    </div>
-
     <div class="page-footer-copyright">
         <div class="container text-center">
             <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" height="32" width="32"> &copy; 2024, Northwest Arkansas DSA 
