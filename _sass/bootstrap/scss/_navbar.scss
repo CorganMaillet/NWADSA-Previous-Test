@@ -80,7 +80,7 @@
     padding-left: 0;
   }
 
-  // Hide the dropdown menu by default
+  /* Hide the dropdown menu by default
   .dropdown-menu {
     display: none;
     position: absolute; // Ensure it's positioned correctly below the parent
@@ -99,7 +99,7 @@
       &.disabled {
         color: $navbar-dark-disabled-color;
       }
-  }
+  }*/
 
   // Show the dropdown menu when hovering over the parent item
   .nav-item:hover .dropdown-menu {
