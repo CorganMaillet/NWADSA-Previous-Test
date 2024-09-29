@@ -29,6 +29,7 @@
             <a class="nav-link" href="{{ url }}" 
                {% if link.description %} title="{{ link.description }}" {% endif %}>
                {{ link.title }}
+               {% if link.sub_menu %}<span class="dropdown-arrow"> ▼</span>{% endif %}
             </a>
 
             {% if link.sub_menu %}

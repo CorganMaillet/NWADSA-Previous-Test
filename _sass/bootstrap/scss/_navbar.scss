@@ -90,11 +90,40 @@
     list-style: none;
     padding: 0;
     margin: 0;
+    color: $navbar-dark-color;
+
+      @include hover-focus {
+        color: $navbar-dark-hover-color;
+      }
+
+      &.disabled {
+        color: $navbar-dark-disabled-color;
+      }
   }
 
   // Show the dropdown menu when hovering over the parent item
   .nav-item:hover .dropdown-menu {
     display: block;
+  }
+
+  .nav-item {
+    position: relative;
+
+    .dropdown-toggle {
+      display: inline-flex;
+      align-items: center;
+
+      .dropdown-arrow {
+        margin-left: 5px; // Adds space between text and arrow
+        font-size: 12px;
+      }
+    }
+
+    // Rotate arrow on hover
+    &:hover .dropdown-arrow {
+      transform: rotate(180deg);
+      transition: transform 0.3s ease;
+    }
   }
 }
 
