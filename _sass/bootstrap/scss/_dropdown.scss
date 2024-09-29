@@ -16,7 +16,7 @@
 // The dropdown menu
 .dropdown-menu {
   position: absolute;
-  top: 100%;
+  top: 90%;
   left: 0;
   z-index: $zindex-dropdown;
   display: none; // none by default, but block on "open" of the menu
@@ -133,6 +133,7 @@
   white-space: nowrap; // prevent links from randomly breaking onto new lines
   background-color: transparent; // For `<button>`s
   border: 0; // For `<button>`s
+  @include font-size($navbar-brand-font-size);
 
   // Prevent dropdown overflow if there's no padding
   // See https://github.com/twbs/bootstrap/pull/27703
