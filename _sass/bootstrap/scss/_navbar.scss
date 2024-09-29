@@ -71,7 +71,7 @@
 
 .navbar-nav {
   display: flex;
-  flex-direction: column; // cannot use `inherit` to get the `.navbar`s value
+  flex-direction: column;
   margin-bottom: 0;
   list-style: none;
 
@@ -80,9 +80,33 @@
     padding-left: 0;
   }
 
+  // Hide the dropdown menu by default
   .dropdown-menu {
-    position: static;
-    float: none;
+    display: none;
+    position: absolute; // Ensure it's positioned correctly below the parent
+    top: 100%;
+    left: 0;
+    background-color: $dropdown-bg;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  // Show the dropdown menu when hovering over the parent item
+  .nav-item:hover .dropdown-menu {
+    display: block;
+  }
+
+  // Optional: Style dropdown items
+  .dropdown-item {
+    padding: 10px 20px;
+    color: $navbar-dark-color;
+    text-decoration: none;
+  }
+
+  // Optional: Add hover effect for dropdown items
+  .dropdown-item:hover {
+    color: $navbar-dark-hover-color;
   }
 }
 
@@ -112,7 +136,7 @@
   // For always expanded or extra full navbars, ensure content aligns itself
   // properly vertically. Can be easily overridden with flex utilities.
   align-items: center;
-  background-color: #EC1F27;
+  background-color: $dropdown-bg;
 }
 
 // Button for toggling the navbar when in its collapsed state

@@ -20,7 +20,7 @@ author: NWA DSA
 twitter: 
   username: DSA_NWA
   card: summary
-logo: assets/images/NWA_DSA/Logo_1k_pix/SVG/Logo-color-small.svg # PNG is SEO friendly
+logo: assets/images/NWA_DSA/Logo_1k_pix/SVG/NWA-DSA-small-color-logo-newBG.svg # PNG is SEO friendly
 
 webmaster_verifications:
   google: # 1234
@@ -168,5 +168,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/smalllogo.png
-      image_alt: Peninsula Democratic Socialists of America logo
+      image: assets/images/NWA_DSA/Logo_1k_pix/SVG/NWA-DSA-small-color-logo-newBG.svg
+      image_alt: Northwest Arkansas Democratic Socialists of America logo

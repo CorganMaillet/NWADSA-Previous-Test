@@ -108,3 +108,20 @@ p {
     margin-bottom: 10px;
 }
 
+.container_footer{
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+    padding:0 0;
+    overflow:hidden;
+    position:relative;
+    background: none;
+    border: 0;
+    box-sizing: border-box;
+}
+    
+.footer_bottom {
+    text-align: center;
+    border-width:1px 0 0 0; 
+    border-style:solid;
+}
