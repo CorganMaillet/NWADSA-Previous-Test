@@ -16,12 +16,6 @@ instagram: &instagram
   url: "https://www.instagram.com/nwadsa/"
   username: nwadsa
 
-github: &github
-  label: "GitHub"
-  icon: "fab fa-fw fa-github"
-  url: "https://github.com/dsa-ntc"
-  username: dsa-ntc
-
 email: &email
   label: "Email"
   icon: "fa fa-envelope"
@@ -36,7 +30,6 @@ footer:
   - *facebook
   - *twitter
   - *instagram
-  - *github
   - *email
 
 # This list appears in the dropdown of every blog post
