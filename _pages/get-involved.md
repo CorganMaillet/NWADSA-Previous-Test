@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-[![Want to get involved with Northwest Arkansas DSA? Join us!](/assets/images/getinvolved.png){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
+[![Want to get involved with Northwest Arkansas DSA? Join us!](assets/images/DSA/dsa-gif-logo.gif){:class="img-responsive}](https://act.dsausa.org/donate/membership/)
 
 <h2>Join DSA!</h2>
 

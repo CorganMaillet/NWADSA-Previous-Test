@@ -56,3 +56,8 @@ footer:
     - label: "Northeast Arkansas DSA"
       icon: "fas fa-fw fa-rss-square"
       url: "https://www.facebook.com/neadsa"
+  - quick:
+    - label: "About"
+    url: "/about/"
+    - label: "Get Involved"
+    url: "/get-involved/"
