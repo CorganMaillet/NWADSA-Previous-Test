@@ -58,6 +58,6 @@ footer:
       url: "https://www.facebook.com/neadsa"
   - quick:
     - label: "About"
-    url: "/about/"
+      url: "/about/"
     - label: "Get Involved"
-    url: "/get-involved/"
+      url: "/get-involved/"

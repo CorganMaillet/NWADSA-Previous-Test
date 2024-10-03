@@ -46,7 +46,7 @@
                         {% for qu_link in quick.quick %}
                         <li>
                             {% if ar_link.url %}
-                            <a href="{{ qu_link.url }}" target="_blank">{{ qu_link.label }}</a>
+                            <a href="{{ qu_link.url }}">{{ qu_link.label }}</a>
                             {% else %}
                             <strong>{{ qu_link.label }}</strong>
                             {% endif %}
