@@ -12,7 +12,7 @@
                     <p class="my-3">{{ about.about }}</p>
                 </div>
                 <div class="col-md-2 col-sm-12">
-                    <h4 class="text-red m-0">Socials</h3>
+                    <h4 class="text-red m-foot">Socials</h3>
                     <!-- Social media links -->
                     <ul class="my-3">
                         {% for so_link in social.social %}
@@ -27,12 +27,12 @@
                     </ul>
                 </div>
                 <div class="col-md-2 col-sm-12">
-                    <h4 class="text-red m-0">Arkansas DSA</h3>
+                    <h4 class="text-red m-foot">Arkansas DSA</h3>
                     <ul class="my-3">
                         {% for ar_link in ardsa.ardsa %}
                         <li>
                             {% if ar_link.url %}
-                            <i class="{{ ar_link.icon }}"></i><a href="{{ ar_link.url }}" target="_blank">{{ ar_link.label }}</a>
+                            <a href="{{ ar_link.url }}" target="_blank">{{ ar_link.label }}</a>
                             {% else %}
                             <strong>{{ ar_link.label }}</strong>
                             {% endif %}
@@ -41,11 +41,11 @@
                     </ul>
                 </div>
                 <div class="col-md-2 col-sm-12">
-                    <h4 class="text-red m-0">Quick Links</h3>
+                    <h4 class="text-red m-foot">Quick Links</h3>
                     <ul class="my-3">
                         {% for qu_link in quick.quick %}
                         <li>
-                            {% if ar_link.url %}
+                            {% if qu_link.url %}
                             <a href="{{ qu_link.url }}">{{ qu_link.label }}</a>
                             {% else %}
                             <strong>{{ qu_link.label }}</strong>

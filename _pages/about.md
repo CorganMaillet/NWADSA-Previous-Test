@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-Northwest Arkansas DSA  
+<h3>Northwest Arkansas DSA</h3>  
 <br>
 
 We are a group of local residents and activists working together—and sometimes in coalitions—to build a world that puts people and planet before profit. Our member-driven organization is made possible by comrades volunteering their labor, each according to their ability and their need.
@@ -27,6 +27,6 @@ Steering Group elections are held once a year during the first part of the year.
 
 Want to get involved in DSA but travel through the state? Another local chapter might work better for you!
 
-* **Central Arkansas DSA** [Website](https://centralarkansasdsa.org/) | [Instagram](https://www.instagram.com/central_ar_dsa/)
-* **Fort Smith DSA** [Facebook](https://www.facebook.com/fortsmithdsa/) | [Twitter](https://x.com/fortsmithdsa)
-* **Northeast Arkansas DSA** [Facebook](https://www.facebook.com/neadsa) | [Twitter](https://x.com/nearkdsa)
+* **Central Arkansas DSA** <p>[Website](https://centralarkansasdsa.org/) | [Instagram](https://www.instagram.com/central_ar_dsa/)</p>
+* **Fort Smith DSA** <p>[Facebook](https://www.facebook.com/fortsmithdsa/) | [Twitter](https://x.com/fortsmithdsa)</p>
+* **Northeast Arkansas DSA** <p>[Facebook](https://www.facebook.com/neadsa) | [Twitter](https://x.com/nearkdsa)</p>
