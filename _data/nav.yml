@@ -7,9 +7,9 @@ header:
     url: "/working-groups/"
     description: "Working Groups of the Chapter"
     sub_menu:
-    - title: Gaza Solidarity
+    - title: "Gaza Solidarity"
       url: "/gaza-solidarity/"
-    - title: Electoral Working Group
+    - title: "Electoral Working Group"
       url: "/electoral/"
   - title: "Statements"
     url: "/statements/"
